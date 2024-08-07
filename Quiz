@@ -1,2 +1,19 @@
 // Hallo Batuhan, hier bitte deinen Code einfügen (SK)
 
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Willkommen</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="front-page">
+        <img src="bilder/quiz-leuchtreklame.jpg" alt="Quiz Leuchtreklame">
+        <h1>Willkommen beim Krassesten Test der Welt!!</h1>
+        <h2>Alina, du wirst Durchfallen</h2>
+        <a id="start-button" href="quiz.html">Zum Quiz</a>
+    </div>
+</body>
+</html>
